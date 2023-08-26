@@ -1,0 +1,31 @@
+
+body {
+    background-color: #F2E3DB;
+    height:auto;
+    width: 300px;
+    text-align: center;
+    margin-top: 10px;
+}
+ html {
+    border: 5px solid rgb(200, 200, 200);
+    border-radius: 10px;
+} 
+  
+.container1 {
+    background: green;
+    width: max-content;
+    height: 100px;
+    text-align: center;
+}
+
+.title-1{
+    font-family: 'Bebas Neue', cursive;
+    font-size:40px;
+    font-weight: bold;
+    color: #263A29;
+    margin-top: 10px;
+}
+
+.form-floating{
+    margin-top: 30px;
+}
