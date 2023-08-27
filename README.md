@@ -32,8 +32,13 @@ headers: {
 
  <img src="assets/SpendSmart arch.png"></img>
  
- ---
+---
 
+ ### ScreenCast
+
+<img src="assets/screen-recorder-sun-aug-27-2023-23-57-14.gif"></img>
+
+---
  ### License
  
  © Alik Kumar Ghosh, SpendSmart is licensed under the GNU General Public License v3.0 [License]()
