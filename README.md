@@ -3,7 +3,7 @@ Designed a browser extension aimed at enhancing spending decisions through infor
 
 ### Download
 
-cxr : https://alik-kumar-ghosh.github.io/Undone_Assignment/
+cxr : https://github.com/Alik-Kumar-Ghosh/SpendSmart/releases/tag/CRX_Release
 
 
 ---
@@ -13,24 +13,29 @@ cxr : https://alik-kumar-ghosh.github.io/Undone_Assignment/
 
 <a href="https://platform.openai.com/account/api-keys">https://platform.openai.com/account/api-keys</a> <br>
 
+
+Replace 'Your API key' with your secret API key here
+```javascript
+var Open_AI_API_key = 'Your API Key'
+```
 ```javascript
 headers: {
   'Content-Type': 'application/json',
-  'Authorization': 'Bearer Open_AI_API'
+  'Authorization': 'Bearer Open_AI_API_key'
   },
 ```
-Replace Open_AI_API with your secret API key here
-var Open_AI_API_key = 'API Key'
 
 ---
  
  
- ### ScreenCast
+ ### Architecture diagram 
+
+ <img src="assets/SpendSmart arch.png"></img>
  
  ---
 
  ### License
  
- © Alik Kumar Ghosh, The_Mask_Shop is licensed under the GNU General Public License v3.0 [License]()
+ © Alik Kumar Ghosh, SpendSmart is licensed under the GNU General Public License v3.0 [License]()
 
 
