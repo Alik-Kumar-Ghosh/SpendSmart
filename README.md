@@ -1,5 +1,7 @@
 # SpendSmart
-Designed a browser extension aimed at enhancing spending decisions through informed choices. Leveraged user input, enabling insights into earnings-to-amount conversion. Implemented a feature-rich experience by offering alternative product suggestions for improved value using OpenAI’s ChatGPT API.
+The SpendSmart Browser Extension is a powerful tool designed to empower users in making well-informed spending decisions. By leveraging user input and integrating earnings-to-amount conversion insights, this extension offers a unique and valuable perspective on financial choices. One of its standout features is the integration of OpenAI's ChatGPT API, which enables the extension to provide users with alternative product suggestions that offer enhanced value.
+
+With the SpendSmart Browser Extension, users can take control of their spending by receiving real-time recommendations and insights. This extension goes beyond traditional decision-making tools by not only considering individual preferences but also considering the financial implications of each choice. The ability to visualize the impact of purchases and receive alternative options directly within the browser is a game-changer for responsible spending.
 
 ### Download
 
