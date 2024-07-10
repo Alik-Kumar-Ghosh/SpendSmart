@@ -1,0 +1,29 @@
+Privacy Policy
+
+Effective Date: 10-07-2024
+
+Welcome to the SpendSmart Browser Extension. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our extension. By using the SpendSmart Browser Extension, you agree to the terms of this Privacy Policy.
+
+Information We Collect
+No User Information Storage:
+We do not collect, store, or share any personal information about you. The SpendSmart Browser Extension operates without retaining any data that could be used to identify or contact you in the future.
+
+How We Use Your Information
+Real-Time Processing:
+The SpendSmart Browser Extension processes data in real time to provide you with alternative product suggestions and financial insights. This data is used solely to deliver the functionalities of the extension and is not stored or shared.
+
+Integration with Gemini AI API
+API Usage:
+The SpendSmart Browser Extension integrates with the Gemini AI API to provide enhanced product suggestions. The data sent to the Gemini AI API is limited to the product information necessary to generate these suggestions. No personal information is included in these requests.
+
+Security
+Data Protection:
+While the SpendSmart Browser Extension does not store any user data, we take security seriously. All data transmitted to third-party services, such as the Gemini AI API, is encrypted to protect your information during transit.
+
+Your Choices
+Extension Usage:
+By using the SpendSmart Browser Extension, you consent to the real-time processing of your data for the purposes described above. If you do not agree with this policy, please do not use the extension.
+
+Changes to This Privacy Policy
+Updates:
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website and updating the effective date at the top of this policy.
