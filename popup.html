@@ -46,7 +46,14 @@
         >
           Better Options
         </button>
-        <p style="font-size: 10px">Powered by ChatGPT</p>
+        <div id="spinner-overlay" class="spinner-overlay">
+          <div class="spinner-container">
+              <img src="assets/svg-spinner.svg" alt="Loading..." width="100px" height="100px">
+              <p>Loading......</p>
+          </div>
+      </div>
+      
+        <p style="font-size: 10px">Powered by Google's Gemini AI</p>
         <p id="BetterOpt"></p>
       </div>
     </div>
@@ -57,7 +64,7 @@
     ></script>
      -->
     <script type="module" src="main.js"></script>
-    <script type="module" src="API/api_call.js"></script>
-    <script src="popup.js"></script>
+    <script src="API/api_call.js"></script>
+    <script src="popup.js"></script> 
   </body>
 </html>

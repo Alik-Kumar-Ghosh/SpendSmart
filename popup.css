@@ -29,3 +29,30 @@ body {
 .form-floating{
     margin-top: 30px;
 }
+
+/* Spinner CSS */
+.spinner-overlay {
+    display: none; /* Hidden by default */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.8); /* Light blur effect */
+    z-index: 9999; /* Ensure it covers the entire screen */
+    backdrop-filter: blur(5px); /* Actual blur effect */
+    text-align: center;
+}
+
+.spinner-container {
+   /* position: absolute;*/
+    margin: 100px;
+    height: 10px;
+    width: 10px;
+    text-align: center;
+   /* transform: translate(-50%, -50%);*/
+}
+
+body::-webkit-scrollbar {
+    display: none; /* for Chrome, Safari, and Opera */
+  }
