@@ -3,10 +3,15 @@ The SpendSmart Browser Extension is a powerful tool designed to empower users in
 
 With the SpendSmart Browser Extension, users can take control of their spending by receiving real-time recommendations and insights. This extension goes beyond traditional decision-making tools by not only considering individual preferences but also considering the financial implications of each choice. The ability to visualize the impact of purchases and receive alternative options directly within the browser is a game-changer for responsible spending.
 
+---
+
 ### Download
 
 cxr : https://github.com/Alik-Kumar-Ghosh/SpendSmart/releases/tag/CRX_Release
 
+Chrome Web Store - https://chromewebstore.google.com/detail/spendsmart/ljifmcdifnjcgphfbilhkfailbopbbdb?authuser=0&hl=en
+
+<a href="https://chromewebstore.google.com/detail/spendsmart/ljifmcdifnjcgphfbilhkfailbopbbdb?authuser=0&hl=en"> <img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLSwFD6qGq.png"> </a>
 
 ---
 
